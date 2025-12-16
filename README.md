@@ -2,8 +2,6 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, experience, and certifications as a Full-Stack Web2 and Web3 Developer.
 
-![Portfolio Preview](https://res.cloudinary.com/detetmaw8/image/upload/v1720009405/g1lls6hukdyyh7cn5aqp.png)
-
 ## 🚀 Tech Stack
 
 - **Framework:** Next.js 14
